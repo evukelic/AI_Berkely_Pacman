@@ -1,5 +1,4 @@
-### Lab assignment 1
+Rješenja laboratorijske vježbe sa kolegija Umjetna inteligencija na Fakultetu elektrotehnike i računarstva Sveučilišta u Zagrebu,
+originalno sa kolegija Introduction to Artificial Intelligence sa Berkely, University of California.
 
-This is the repository for the code of the first lab assignment. You can find the instructions for the lab assignment in both Croatian and English in their folder [here](instructions/).
-
-![Depth first search](https://github.com/mttk/AIclass/blob/master/lab1/misc/DFS_example.png)
+Zadaci su javno dostupni na stranicama sveučilišta.
